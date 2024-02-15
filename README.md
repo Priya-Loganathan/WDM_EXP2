@@ -1,13 +1,15 @@
-### EX2 Generating Association Rules for Employee dataset using Apriori Algorithm
-### DATE: 
-### AIM: To generate associate rules for the employee dataset using Apriori Algorithm.
-### Description:
+# EX2 Generating Association Rules for Employee dataset using Apriori Algorithm
+## DATE: 
+## AIM: 
+To generate associate rules for the employee dataset using Apriori Algorithm.
+
+## Description:
 In data mining, association rule learning is a popular and well researched method for discovering interesting
 relations between variables in large databases. It can be described as analyzing and presenting strong rules discovered
 in databases using different measures of interestingness. In market basket analysis association rules are used and they
 are also employed in many application areas including Web usage mining, intrusion detection and bioinformatics.
-Creation of Buying Table:
-### Procedure:
+
+## Procedure:
 1) Open Start -> Programs -> Accessories -> Notepad
 2) Type the following training data set with the help of Notepad for Buying Table.
 
@@ -41,10 +43,15 @@ G40,high,yes,excellent,yes
 6) In that dialog box there are four modes, click on explorer.
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
-### OUTPUT:
 
+## OUTPUT:
+![buying table](https://github.com/Priya-Loganathan/WDM_EXP2/assets/121166075/c1a42f45-897b-4413-82ee-0ec75f8b34c1)
 
-### Procedure for Association Rules:
+![banking table](https://github.com/Priya-Loganathan/WDM_EXP2/assets/121166075/e7ff0f8e-5207-4360-832a-863b9d054de9)
+
+![emp](https://github.com/Priya-Loganathan/WDM_EXP2/assets/121166075/441f548e-4e16-49f5-9b1f-90bcb486fb2c)
+
+## Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
 2) Open explorer.
 3) Click on open file and select buying.arff
@@ -52,6 +59,12 @@ G40,high,yes,excellent,yes
 5) Select Choose button and then click on Apriori Algorithm.
 6) Click on Start button and output will be displayed on the right side of the window.
 
-### OUTPUT:
+## OUTPUT:
+![associate rule](https://github.com/Priya-Loganathan/WDM_EXP2/assets/121166075/e2355fcd-572c-444e-8699-05d2a4458bda)
 
-### RESULT: 
+![bt asso](https://github.com/Priya-Loganathan/WDM_EXP2/assets/121166075/4f01409e-1667-47aa-aa65-746d42c574e7)
+
+![emp asso](https://github.com/Priya-Loganathan/WDM_EXP2/assets/121166075/d8bdbf7e-2b58-4c49-b042-0733d26c4d45)
+
+## RESULT: 
+Thus the program has been successfully executed.
